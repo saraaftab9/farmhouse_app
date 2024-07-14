@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294078469173",
+    "project_id": "farmhouse-app-4b63f",
+    "storage_bucket": "farmhouse-app-4b63f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294078469173:android:1f17d8f4dabae22591cd7c",
+        "android_client_info": {
+          "package_name": "com.example.farmhouse_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSZ2ly-JxhIOnikQTybFWrj_t-UGN3E3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
